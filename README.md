@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xyzrxlve
-- 👀 I’m interested in bac-end
-- 🌱 I’m currently learning java
-- 📫 How to reach me xyzrxlve@gmail.com
+- 🌌 I’m interested in back-end
+- 📚 I’m currently learning java
+- 🗃️ How to reach me xyzrxlve@gmail.com
